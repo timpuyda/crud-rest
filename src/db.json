@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "author": "ite",
+      "id": 2
+    },
+    {
+      "author": "item",
+      "id": 3
+    },
+    {
+      "author": "item3",
+      "id": 5
+    },
+    {
+      "author": "wdwdwd",
+      "id": 7
+    },
+    {
+      "author": "sdsdw",
+      "id": 8
+    },
+    {
+      "author": "edited 10",
+      "id": 12
+    },
+    {
+      "author": " sdsd",
+      "id": 13
+    },
+    {
+      "author": "  first Sec   ",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
